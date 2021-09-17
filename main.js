@@ -19,7 +19,7 @@ function load_img(){
 			top:hole_y,
 			left:hole_x
 		});
-		canvas.add(hole.obj);
+		canvas.add(hole_obj);
 	});
 	new_image();
 }
